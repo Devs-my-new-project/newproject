@@ -1,3 +1,4 @@
 file a
 
-updating code to check git pull/clone
+updating code to check git pull command only
+ok
